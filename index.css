@@ -1,0 +1,230 @@
+body{
+    background-color: #3D087B;
+}
+.main_1{
+    display: flex;
+    justify-content: space-between;
+}
+.clock_img{
+    width: 200px;
+    height: 80px;
+    margin-left: 63px;
+    margin-top: 20px;
+}
+.time_main{
+    width: 500px;
+    height: 100px;
+    margin-top: 20px;
+    margin-right: 40px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+.time_main_2{
+    display: flex;
+    margin-left: 38px;
+}
+.sub_2{
+    width: 600px;
+    height: 500px;
+    border-radius: 10px;
+    background-color: #3D087B;
+    background-image: url("https://m.media-amazon.com/images/I/51zwIl630bL._SL1000_.jpg");
+    background-size: cover;
+    position: absolute;
+    left: 50%;
+    top: 150px;
+    /* margin-left: 620px;
+    margin-top: -350px; */
+}
+.box{
+    width: 60px;
+    height: 75px;
+    margin: 10px;
+}
+.box1{
+    color: #3D087B;
+    box-sizing: border-box;
+    font-size: larger;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-left: 5px;
+}
+.box2{
+    background-image: url("./timeline.svg");
+}
+.box3{
+    background-image: url("./timeline.svg");
+}
+.box4{
+    background-image: url("./timeline.svg");
+}
+.box5{
+    background-image: url("./AM_svg.svg");
+}
+/* .main_2{
+   position: relative;
+
+} */
+.sub_1{
+    width: 500px;
+    height: 350px;
+    background-color: white;
+    margin-left: 63px;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.main_2_sub{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.box5{
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+    padding-left: 5px;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
+.box6{
+    background-image: url("./wake_up.svg");
+    width: 50px;
+    height: 40px;
+    background-size: cover;
+}
+.box7{
+    padding-top: 10px;
+}
+.box9{
+    background-image: url("./lunch_time.svg");
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+}
+.box10{
+    background-image: url("./nap_time.svg");
+    width: 50px;
+    height: 48px;
+    background-size: cover;
+}
+.select{
+    width: 180px;
+    height: 30px;
+    font-weight: 500;
+}
+.dot{
+    margin-top: 35px;
+    color: #8A11BF;
+    font-weight: bolder;
+    font-size: larger;
+}
+.btn{
+    width: 200px;
+    height: 50px;
+    background-color:  #A983D6;
+    font-weight: bolder;
+    color: white;
+    font-size: 16px;
+    margin-left: 63px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: none;
+}
+.settime_div{
+    background-color: #A983D6;
+    width: 500px;
+    height: 130px;
+    margin-left: 63px;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-left: 40px;
+    border-radius: 10px;   
+    color: white;
+    font-weight: bolder;
+    box-sizing: border-box;
+
+}
+.zero{
+    font-size: 40px;
+    font-weight: bold;
+    color: #A983D6;
+    box-sizing: border-box;
+    margin-left: 10px;
+}
+.h{
+    color: #A983D6;
+    font-weight: 600;
+    margin-left: 10px;
+}
+.para{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+}
+.bottom{
+    width: 100%;
+    text-align: center;
+    font-weight: bolder;
+    color: #F6E2FF;
+    margin-top: 100px;
+}
+.bottom_spcl{
+    width: 100%;
+    text-align: center;
+    font-weight: bolder;
+    color: #F6E2FF;
+    margin-top: 20px;
+}
+.vmc_1{
+    width: 600px;
+    height: 500px;
+    margin-top: 20px;
+    border-radius: 10px;
+    /* margin-right: -20px; */
+    background-color: white;
+    background-image: url("./gm.png");
+    background-size: cover;
+}
+.vmc_2{
+    width: 600px;
+    height: 500px;
+    margin-top: 20px;
+    border-radius: 10px;
+    /* margin-right: -20px; */
+    background-color: white;
+    background-image: url("./lauch.png");
+    background-size: cover;
+}
+.vmc_3{
+    width: 600px;
+    height: 500px;
+    margin-top: 20px;
+    border-radius: 10px;
+    /* margin-right: -20px; */
+    background-color: white;
+    background-image: url("./gn.png");
+    background-size: cover;
+}
+.msg_1{
+    width: 500px;
+    height: 80px;
+    margin-left: 63px;
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    box-sizing: border-box;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: "Roboto";
+    background-color: #8A11BF;
+}
+
+.kkk{
+    color: #8A11BF;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 20px;
+}
